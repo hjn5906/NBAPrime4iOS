@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>teams</key>
+	<array>
+		<string>atlanta_hawks</string>
+		<string>boston_celtics</string>
+		<string>brooklyn_nets</string>
+		<string>charlotte_hornets</string>
+		<string>chicago_bulls</string>
+		<string>cleveland_cavaliers</string>
+		<string>dallas_mavericks</string>
+		<string>denver_nuggets</string>
+		<string>detroit_pistons</string>
+		<string>golden_state_warriors</string>
+		<string>houston_rockets</string>
+		<string>indiana_pacers</string>
+		<string>los_angeles_clippers</string>
+		<string>los_angeles_lakers</string>
+		<string>memphis_grizzlies</string>
+		<string>miami_heat</string>
+		<string>milwaukee_bucks</string>
+		<string>minnesota_timberwolves</string>
+		<string>new_orleans_pelicans</string>
+		<string>new_york_knicks</string>
+		<string>oklahoma_city_thunder</string>
+		<string>orlando_magic</string>
+		<string>philadelphia_76ers</string>
+		<string>phoenix_suns</string>
+		<string>portland_trail_blazers</string>
+		<string>sacramento_kings</string>
+		<string>san_antonio_spurs</string>
+		<string>toronto_raptors</string>
+		<string>utah_jazz</string>
+		<string>washington_wizards</string>
+	</array>
+</dict>
+</plist>
